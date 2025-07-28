@@ -1,3 +1,3 @@
 # Real-time Data Streaming Pipeline
-
-to be finished
+---
+Technologies used: Python, Flink, Redpanda (as drop-in replacement for Kafka)
